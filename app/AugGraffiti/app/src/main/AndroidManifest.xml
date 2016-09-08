@@ -48,7 +48,8 @@
         <activity
             android:name=".SettingsActivity"
             android:label="@string/title_activity_settings" />
-        <activity android:name=".CollectActivity"></activity>
+        <activity android:name=".CollectActivity" />
+        <activity android:name=".GalleryActivity"></activity>
     </application>
 
 </manifest>
